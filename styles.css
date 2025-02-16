@@ -56,3 +56,8 @@ h1 {
 #reset:hover {
     background-color: #0056b3;
 }
+#result {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #333;
+}
